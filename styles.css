@@ -21,12 +21,13 @@ body {
     flex-wrap: nowrap;
     justify-content: center;
     align-items: flex-start;
+    border-radius: 20px;
 }
 
 .card {
-    background-color: #f2f1ed;
-    border-radius: 12px;
-    padding: 40px 32px;
+    background-color: #bfc4f0;
+    border-radius: 8px;
+    padding: 20px;
     width: 320px;
     flex-shrink: 0;
 }
